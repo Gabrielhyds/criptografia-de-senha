@@ -1,6 +1,7 @@
 # Projeto Criptografia de senhas
 - Desenvolvido para treinar LP em PHP  
 
+![Captura de Tela (156)](https://user-images.githubusercontent.com/85001629/187047338-9222fa24-5f8f-4696-a0ed-b23b0f22275c.png)
 
 # Funcionalidades
   - Recebe a senha do usuário
